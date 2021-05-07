@@ -1,0 +1,4 @@
+﻿  server.cpp
+d:\workspace\server\server\server.cpp(53): warning C4101: 'sendBuf': unreferenced local variable
+  server.vcxproj -> D:\workspace\server\Debug\server.exe
+  server.vcxproj -> D:\workspace\server\Debug\server.pdb (Full PDB)
