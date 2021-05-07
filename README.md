@@ -1,2 +1,2 @@
-# winSocket_c-
+# winSocket_c++
 c++ programming with Socket in windows
