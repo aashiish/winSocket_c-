@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  server.cpp
+d:\workspace\socket\server\server\server.cpp(53): warning C4101: 'sendBuf': unreferenced local variable
+  server.vcxproj -> D:\workspace\socket\server\Debug\server.exe
+  server.vcxproj -> D:\workspace\socket\server\Debug\server.pdb (Full PDB)
